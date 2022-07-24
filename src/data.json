@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "Life lessons with Katie Zaferes",
+        "description": "Lorem text is the seeding data for genreally, However anybody can add any data.",
+        "price": "From $136",
+        "coverImg": "pictures/player.png",
+        "stats": {
+            "rating": " 5.0 ",
+            "reviewCount":" (6) * "
+        },
+        "location": "Canada",
+        "openSpots": 1
+    },
+    {
+        "id": 2,
+        "title": "Learn wedding photography",
+        "description": "Lorem text is the seeding data for genreally, However anybody can add any data.",
+        "price": "From $150",
+        "coverImg": "pictures/bride.png",
+        "stats": {
+            "rating":" 4.7 ",
+            "reviewCount":" (6) * "
+        },
+        "location": "USA",
+        "openSpots": 1
+    },
+    {
+        "id": 3,
+        "title": "Group Mountain Biking",
+        "description": "Lorem text is the seeding data for genreally, However anybody can add any data.",
+        "price": "From $500",
+        "coverImg": "pictures/bike.png",
+        "stats": {
+            "rating":"4.9",
+            "reviewCount":" (6) * "
+        },
+        "location": "UK",
+        "openSpots": 0
+    }
+]
