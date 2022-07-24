@@ -4,7 +4,7 @@ import StarImg from '../images/Star.png'
 
 const Card = (props) => {   
    const Stock =  props.status
-       console.log(Stock)
+
     return (
     <div className='card'>
         <div className='badge'>{ (Stock === 0) ? `Sold Out` : `Online` }</div>

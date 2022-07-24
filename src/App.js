@@ -24,8 +24,6 @@ import Data from "./data"
 
 
 function App() {
-console.log(Data)
-
   const cards = Data.map(item => {
     return (
       <Card
@@ -45,19 +43,9 @@ console.log(Data)
         <Navbar/>
         <Hero/>
         <section className="card-list">
-        {cards}
+          {cards}
         </section>
-        
-        {/* <Card
-            img={PlayerImg}
-            rating="5.0"
-            reviewCount=" (6) * "
-            country="USA"
-            title="Life is Lesson"
-            price={136}
-
-
-        /> */}
+    
 
       </div>
   );
