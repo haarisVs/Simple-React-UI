@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/syedhaaris97/react-pageone.git/static/css/main.fef2a632.chunk.css",
-    "main.js": "/syedhaaris97/react-pageone.git/static/js/main.4243e4fe.chunk.js",
-    "main.js.map": "/syedhaaris97/react-pageone.git/static/js/main.4243e4fe.chunk.js.map",
-    "runtime-main.js": "/syedhaaris97/react-pageone.git/static/js/runtime-main.15aa5720.js",
-    "runtime-main.js.map": "/syedhaaris97/react-pageone.git/static/js/runtime-main.15aa5720.js.map",
-    "static/js/2.b2858224.chunk.js": "/syedhaaris97/react-pageone.git/static/js/2.b2858224.chunk.js",
-    "static/js/2.b2858224.chunk.js.map": "/syedhaaris97/react-pageone.git/static/js/2.b2858224.chunk.js.map",
-    "index.html": "/syedhaaris97/react-pageone.git/index.html",
-    "static/css/main.fef2a632.chunk.css.map": "/syedhaaris97/react-pageone.git/static/css/main.fef2a632.chunk.css.map",
-    "static/js/2.b2858224.chunk.js.LICENSE.txt": "/syedhaaris97/react-pageone.git/static/js/2.b2858224.chunk.js.LICENSE.txt",
-    "static/media/Hero.b05835d2.png": "/syedhaaris97/react-pageone.git/static/media/Hero.b05835d2.png"
+    "main.css": "/react-pageone/static/css/main.fef2a632.chunk.css",
+    "main.js": "/react-pageone/static/js/main.4243e4fe.chunk.js",
+    "main.js.map": "/react-pageone/static/js/main.4243e4fe.chunk.js.map",
+    "runtime-main.js": "/react-pageone/static/js/runtime-main.6c20808c.js",
+    "runtime-main.js.map": "/react-pageone/static/js/runtime-main.6c20808c.js.map",
+    "static/js/2.b2858224.chunk.js": "/react-pageone/static/js/2.b2858224.chunk.js",
+    "static/js/2.b2858224.chunk.js.map": "/react-pageone/static/js/2.b2858224.chunk.js.map",
+    "index.html": "/react-pageone/index.html",
+    "static/css/main.fef2a632.chunk.css.map": "/react-pageone/static/css/main.fef2a632.chunk.css.map",
+    "static/js/2.b2858224.chunk.js.LICENSE.txt": "/react-pageone/static/js/2.b2858224.chunk.js.LICENSE.txt",
+    "static/media/Hero.b05835d2.png": "/react-pageone/static/media/Hero.b05835d2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.15aa5720.js",
+    "static/js/runtime-main.6c20808c.js",
     "static/js/2.b2858224.chunk.js",
     "static/css/main.fef2a632.chunk.css",
     "static/js/main.4243e4fe.chunk.js"
