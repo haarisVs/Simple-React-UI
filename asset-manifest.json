@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/react-pageone/static/css/main.fef2a632.chunk.css",
-    "main.js": "/react-pageone/static/js/main.4243e4fe.chunk.js",
-    "main.js.map": "/react-pageone/static/js/main.4243e4fe.chunk.js.map",
+    "main.js": "/react-pageone/static/js/main.a78b41c4.chunk.js",
+    "main.js.map": "/react-pageone/static/js/main.a78b41c4.chunk.js.map",
     "runtime-main.js": "/react-pageone/static/js/runtime-main.6c20808c.js",
     "runtime-main.js.map": "/react-pageone/static/js/runtime-main.6c20808c.js.map",
-    "static/js/2.b2858224.chunk.js": "/react-pageone/static/js/2.b2858224.chunk.js",
-    "static/js/2.b2858224.chunk.js.map": "/react-pageone/static/js/2.b2858224.chunk.js.map",
+    "static/js/2.9a939039.chunk.js": "/react-pageone/static/js/2.9a939039.chunk.js",
+    "static/js/2.9a939039.chunk.js.map": "/react-pageone/static/js/2.9a939039.chunk.js.map",
     "index.html": "/react-pageone/index.html",
     "static/css/main.fef2a632.chunk.css.map": "/react-pageone/static/css/main.fef2a632.chunk.css.map",
-    "static/js/2.b2858224.chunk.js.LICENSE.txt": "/react-pageone/static/js/2.b2858224.chunk.js.LICENSE.txt",
+    "static/js/2.9a939039.chunk.js.LICENSE.txt": "/react-pageone/static/js/2.9a939039.chunk.js.LICENSE.txt",
     "static/media/Hero.b05835d2.png": "/react-pageone/static/media/Hero.b05835d2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6c20808c.js",
-    "static/js/2.b2858224.chunk.js",
+    "static/js/2.9a939039.chunk.js",
     "static/css/main.fef2a632.chunk.css",
-    "static/js/main.4243e4fe.chunk.js"
+    "static/js/main.a78b41c4.chunk.js"
   ]
 }
